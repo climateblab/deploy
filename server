@@ -1,0 +1,23 @@
+[deploy]
+checkout = git clone 'git@github.com:climateblab/deploy' 'deploy'
+
+[climateblab.github.io]
+checkout = git clone 'git@github.com:climateblab/climateblab.github.io' 'climateblab.github.io'
+
+[dangerous-threshold]
+checkout = git clone 'git@github.com:climateblab/dangerous-threshold' 'dangerous-threshold'
+
+[energy-balance]
+checkout = git clone 'git@github.com:climateblab/energy-balance' 'energy-balance'
+
+[gamsatc]
+checkout = git clone 'git@github.com:climateblab/gamsatc' 'gamsatc'
+
+[ideal-greenhouse]
+checkout = git clone 'git@github.com:climateblab/ideal-greenhouse' 'ideal-greenhouse'
+
+[visualize-mitigation]
+checkout = git clone 'git@github.com:climateblab/visualize-mitigation' 'visualize-mitigation'
+
+[warming-trends]
+checkout = git clone 'git@github.com:climateblab/warming-trends' 'warming-trends'
